@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 5-celebrity-faces-dataset/
+models/
